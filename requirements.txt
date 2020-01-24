@@ -1,0 +1,10 @@
+notebook==5.7.8
+matplotlib==3.1.0
+dash==1.7.0
+dash_daq==0.3.1
+gunicorn==20.0.4
+numpy==1.16.4
+pandas==0.25.3
+xlrd==1.2.0
+tabulate==0.8.6
+-e git+http://github.com/lobnek/pyutil.git#egg=pyutil
